@@ -5,3 +5,5 @@ gitの練習
 複数ファイルの変更練習
 
 git status
+
+git diff
